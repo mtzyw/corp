@@ -8,10 +8,10 @@ export default function NotFound() {
         <div className="max-w-md text-center md:text-left">
           <div className="text-5xl font-dark font-bold">404</div>
           <p className="text-2xl md:text-3xl font-light leading-normal mt-4">
-            Sorry, we couldn't find this page.
+            Sorry, we couldn&apost find this page.
           </p>
           <p className="mb-8 mt-4">
-            But don't worry, you can find plenty of other things on our homepage.
+            But don&apost worry, you can find plenty of other things on our homepage.
           </p>
           <button
             className="px-4 py-2 text-sm font-medium leading-5 shadow text-white transition-colors duration-150 border border-transparent rounded-lg focus:outline-none focus:shadow-outline-blue bg-blue-600 active:bg-blue-600 hover:bg-blue-700"
